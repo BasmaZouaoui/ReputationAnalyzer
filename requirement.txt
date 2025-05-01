@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+beautifulsoup4
+torch
+transformers
+datasets
+streamlit
+plotly
+tqdm
+python-dotenv
+huggingface-hub
